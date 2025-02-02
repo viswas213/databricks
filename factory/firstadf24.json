@@ -1,0 +1,9 @@
+{
+	"name": "firstadf24",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3808c29e-3b62-4ece-bb8c-3e99c55bc21e",
+		"tenantId": "d49126e8-7c1e-49c9-b60e-74369ec844b8"
+	}
+}
